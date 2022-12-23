@@ -1,0 +1,21 @@
+“2D Animated Zombie | 2D Characters | Unity Asset Store.” Unity Asset Store - The Best Assets for Game Making, https://assetstore.unity.com/packages/2d/characters/2d-animated-zombie-184521. Accessed 14 Nov. 2021.
+
+CatoDevs - Unity & R Tutorials. Unity Tutorial : How to Change Sound Volume Using a Slider. YouTube, 18 May 2020, https://www.youtube.com/watch?v=-xvoJ7Q4vw0.
+
+“Epic | Royalty Free Music | Cinematic War.” Royalty Free Music by Bensound | Stock Music, https://www.bensound.com/royalty-free-music/track/epic. Accessed 22 Nov. 2021.
+
+“GIMP - GNU Image Manipulation Program.” GIMP, https://www.gimp.org/. Accessed 1 Nov. 2021.
+
+Hooson. 2D Character Creation And Animation For Beginners - Easy Unity Tutorial. YouTube, 1 Mar. 2021, https://www.youtube.com/watch?v=LCNt9w12fQA.
+
+“How to Get BuildIndex from Scene Name? - Unity Answers.” The Best Place for Answers about Unity - Unity Answers, https://answers.unity.com/questions/1432366/how-to-get-buildindex-from-scene-name.html. Accessed 14 Nov. 2021.
+
+Monkey, Code. 3 Ways to Do a Ground Check in Unity. YouTube, 11 Sept. 2019, https://www.youtube.com/watch?v=c3iEl5AwUF8.
+
+---. Simple Jump in Unity 2D (Unity Tutorial for Beginners). YouTube, 14 Apr. 2019, https://www.youtube.com/watch?v=ptvK4Fp5vRY.
+
+
+Technologies, Unity. “How to Get Started with Unity 2D Game Development.” Unity, https://unity3d.com/2d/solution-guide. Accessed 1 Nov. 2021.
+
+
+---. “Unity - Scripting API: Collider.OnTriggerEnter(Collider).” Unity - Manual:  Unity User Manual 2020.3 (LTS), https://docs.unity3d.com/ScriptReference/Collider.OnTriggerEnter.html. Accessed 21 Nov. 2021.

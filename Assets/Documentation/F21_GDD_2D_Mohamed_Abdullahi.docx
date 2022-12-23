@@ -1,0 +1,241 @@
+Abdullahi Mohamed
+821652137
+Generic Blank Game Design Document (GDD)
+ 
+ 
+Your Game Logo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Here
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+‘Will you remain the last man alive??’ - you
+ 
+This page: Table of Contents and Team Member Listing
+ 
+Table of Contents
+1 Game Overview
+2 High Concept / Genre
+3 Unique Selling Points
+4 Platform Minimum Requirements
+5 Competitors / Similar Titles
+6 Synopsis
+7 Game Objectives
+8 Game Rules
+9 Game Structure
+10 Game Play
+  10.1 Game Controls
+  10.2 Game Camera
+	10.2.1 HUD
+	10.2.2 Maps
+11 Players
+  11.1 Characters
+  11.2 Metrics
+  11.3 States
+  11.4 Weapons
+12 Player Line-up
+13 NPC
+  13.1 Enemies
+	13.1.1 Enemy States
+	13.1.2 Enemy Spawn Points
+  13.2 Allies / Companions
+	13.2.1 Ally States
+	13.2.2 Ally Spawn Points
+14 Art
+  14.1 Setting
+  14.2 Level Design
+  14.3 Audio
+15 Procedurally Generated Content
+  15.1 Environment
+  15.2 Levels
+  15.3 Artificial Intelligence NPC
+  15.4 Visual Arts
+  15.5 Audio
+  15.6 Minimum Viable Product (MPV)
+16 Wish List
+17 Bibliography
+ 
+
+
+
+Game Development Team Members
+                       
+PRODUCER
+Abdullahi Mohamed
+                                   
+PRODUCTION MANAGER
+Abdullahi Mohamed
+                       
+PRODUCTION COORDINATOR
+Abdullahi Mohamed
+ 
+GAME DESIGNERS
+Abdullahi Mohamed
+ 
+SYSTEMS/IT COORDINATOR
+Abdullahi Mohamed
+ 
+PROGRAMMERS
+Abdullahi Mohamed
+ 
+TECHNICAL ARTISTS
+Abdullahi Mohamed
+ 
+AUDIO ENGINEERS
+Abdullahi Mohamed
+ 
+UX TESTERS
+Abdullahi Mohamed
+                                	                        
+ 
+ 
+ 
+
+
+ 
+
+
+1 Game Overview
+Title: Last Man Alive
+Platform: PC Standalone + iOS & Android, VR, XBox, Switch, 
+Genre: Adventure/Survival
+Rating: (10+) ESRB
+Target: Casual gamer (aging from 12 - 30)
+Serious games
+Release date: Nov 2021
+Publisher: Your Company Name
+                                                                                   
+Description: 
+This is an adventure game where the player is the last human alive after a zombie apocalypse. He was trapped in his house alone and now must escape to a location where zombies cannot reach him; the ocean. He leaves his house and must not be caught by the zombies in order for him to reach his destination. Can you help him get there?
+2 High Concept / Genre
+This is an adventure/survival game.
+3 Unique Selling Points
+4 Platform Minimum Requirements
+5 Competitors / Similar Titles
+6 Synopsis
+7 Game Objectives
+Jump over the zombies so u don’t get eaten. The game will get more difficult as time increases. Highest score will be recorded as the longest time it took for you to get caught by zombies. 
+8 Game Rules
+Must jump over all zombies. If touched or come within reach, game over.
+9 Game Structure
+10 Game Play
+10.1 Game Controls
+Use the space button to jump over zombies.
+10.2 Game Camera
+10.2.1 HUD
+10.2.2 Maps
+11 Players
+11.1 Characters
+Man and zombies
+11.2 Metrics
+11.3 States
+11.4 Weapons
+12 Player Line-up
+13 NPC
+13.1 Enemies
+Zombies
+13.1.1 Enemy States
+13.1.2 Enemy Spawn Points
+13.2 Allies / Companions
+13.2.1 Ally States
+13.2.2 Ally Spawn Points
+14 Art
+14.1 Setting
+14.2 Level Design
+14.3 Audio
+Used an audio from bensound.com called “Epic” as my background music. Will credit them in my bibliography.
+15 Procedurally Generated Content
+15.1 Environment
+15.2 Levels
+15.3 Artificial Intelligence NPC
+15.4 Visual Arts
+15.5 Audio
+Used an audio from bensound.com called “Epic” as my background music. Will credit them in my bibliography.
+15.6 Minimum Viable Product (MPV)
+16 Wish List
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17 Bibliography
+
+
+“2D Animated Zombie | 2D Characters | Unity Asset Store.” Unity Asset Store - The Best Assets for Game Making, https://assetstore.unity.com/packages/2d/characters/2d-animated-zombie-184521. Accessed 14 Nov. 2021.
+
+CatoDevs - Unity & R Tutorials. Unity Tutorial : How to Change Sound Volume Using a Slider. YouTube, 18 May 2020, https://www.youtube.com/watch?v=-xvoJ7Q4vw0.
+
+“Epic | Royalty Free Music | Cinematic War.” Royalty Free Music by Bensound | Stock Music, https://www.bensound.com/royalty-free-music/track/epic. Accessed 22 Nov. 2021.
+
+“GIMP - GNU Image Manipulation Program.” GIMP, https://www.gimp.org/. Accessed 1 Nov. 2021.
+
+Hooson. 2D Character Creation And Animation For Beginners - Easy Unity Tutorial. YouTube, 1 Mar. 2021, https://www.youtube.com/watch?v=LCNt9w12fQA.
+
+“How to Get BuildIndex from Scene Name? - Unity Answers.” The Best Place for Answers about Unity - Unity Answers, https://answers.unity.com/questions/1432366/how-to-get-buildindex-from-scene-name.html. Accessed 14 Nov. 2021.
+
+Monkey, Code. 3 Ways to Do a Ground Check in Unity. YouTube, 11 Sept. 2019, https://www.youtube.com/watch?v=c3iEl5AwUF8.
+
+---. Simple Jump in Unity 2D (Unity Tutorial for Beginners). YouTube, 14 Apr. 2019, https://www.youtube.com/watch?v=ptvK4Fp5vRY.
+
+
+Technologies, Unity. “How to Get Started with Unity 2D Game Development.” Unity, https://unity3d.com/2d/solution-guide. Accessed 1 Nov. 2021.
+
+
+---. “Unity - Scripting API: Collider.OnTriggerEnter(Collider).” Unity - Manual:  Unity User Manual 2020.3 (LTS), https://docs.unity3d.com/ScriptReference/Collider.OnTriggerEnter.html. Accessed 21 Nov. 2021.
